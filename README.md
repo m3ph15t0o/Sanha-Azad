@@ -1,52 +1,27 @@
 <div align="center">
 
-# Hi 👋, I'm Sanha Azad
-### B.Tech CSE Student | Cybersecurity & Digital Forensics Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20,30&height=220&section=header&text=Sanha%20Azad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Cybersecurity%20%26%20Digital%20Forensics%20Enthusiast&descFontSize=18&descAlignY=58&descAlign=50" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanhaazad123-dotcom&color=blueviolet&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Investigating+Digital+Evidence+%26+File+Integrity;Passionate+about+Cyber+Defense+%26+Forensics;Building+Practical+Tools+in+Python;Aspiring+Digital+Forensics+Specialist)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanhaazad123-dotcom&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### 🛡️ About Me
 
-- 🔭 **Currently working on:** Digital Evidence Integrity Checker
-- 🔍 **Areas of Interest:** Digital Forensics, Cybersecurity, and Software Development
-- 🌱 **Currently learning:** Python, Incident Analysis, and Core Computer Science fundamentals
-- 🤝 **Looking to collaborate on:** Beginner-friendly digital forensics and security projects
-- ⚡ **Fun Fact:** Exploring how technology and data forensics can uncover critical digital evidence
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/Sanha Azad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/sanha.azad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:sanhaazad123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode&theme=dark" alt="Skills" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanhaazad123-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanha's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhaazad123-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+```yaml
+identity:
+  name: Sanha Azad
+  role: Undergraduate Computer Science & Engineering Student
+  focus_domains: [Digital Forensics, Cybersecurity, Incident Evidence Analysis]
+current_status:
+  flagship_project: Digital Evidence Integrity Checker
+  exploring: Forensic hashing algorithms, file carving basics, artifact inspection
+  academics: B.Tech in Computer Science and Engineering
+mission:
+  statement: "Leveraging computational logic to preserve digital chain-of-custody and inspect cyber artifacts."
