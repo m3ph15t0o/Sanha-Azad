@@ -9,7 +9,14 @@
 </p>
 
 </div>
-
+​<div align="center">
+​Languages & Development
+​<img src="https://skillicons.dev/icons?i=python,c,bash,markdown&theme=dark" />
+​Security, Forensics & System Environments
+​<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,regex&theme=dark" />
+​Tools & Platforms
+​<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" />
+​</div>
 ---
 
 ### 🛡️ About Me
@@ -25,3 +32,5 @@ current_status:
   academics: B.Tech in Computer Science and Engineering
 mission:
   statement: "Leveraging computational logic to preserve digital chain-of-custody and inspect cyber artifacts."
+
+
